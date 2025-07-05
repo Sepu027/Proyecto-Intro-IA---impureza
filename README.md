@@ -9,7 +9,7 @@ El objetivo de este proyecto es predecir con anticipación (entre 30 y 60 minuto
 ## Plan de Acción
 
 ### Descripción del Dataset:
-Se utilizará el dataset público "Quality Prediction in a Mining Process" disponible en Kaggle, que contiene 739.294 registros con variables clave del proceso de flotación, incluyendo pH, ORP, caudales, niveles de celda y dosificación de reactivos, además del contenido de sílice analizado cada hora.
+Se utilizará el dataset público "Quality Prediction in a Mining Process" disponible en Kaggle (https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/data), que contiene 739.294 registros con variables clave del proceso de flotación, incluyendo pH, ORP, caudales, niveles de celda y dosificación de reactivos, además del contenido de sílice analizado cada hora.
 
 ### Modelo Seleccionado:
 Se implementará un modelo de Random Forest Regressor debido a su efectividad comprobada en problemas tabulares complejos y no lineales, capacidad de manejar variables correlacionadas y ruido, así como por su interpretabilidad en términos prácticos.
